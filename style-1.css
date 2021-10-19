@@ -1,1 +1,4 @@
-body{background-color: dimgray;color: lightgrey}
+p,h1,h4{
+    background-color: dimgray;
+    color: lightgrey;
+}
